@@ -1,0 +1,15 @@
+body{
+    background-color:skyblue
+}
+.frm1{
+    background-color:skyblue
+   
+}
+div {
+    padding-top: 300px;
+    padding-bottom: 50px;
+    padding-left: 500px;
+    padding-right: 300px;
+    height: 300px;
+    width: 500px;
+}

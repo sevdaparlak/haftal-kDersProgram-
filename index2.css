@@ -1,0 +1,33 @@
+body{
+    background-color: skyblue
+}
+table{
+    border: 2px solid black;
+ background-color: white
+}
+th{
+     border: 2px solid black;
+  
+}
+td{
+    border: 2px solid black;
+    
+    
+}
+
+
+.frm3{
+    height: 300px;
+    width: 400px;
+    float:left;
+    padding-top: 40px;
+}
+.tbl2{
+    width: 1000px;
+    height: 400px;
+    visibility: hidden;
+}
+
+ 
+           
+   
